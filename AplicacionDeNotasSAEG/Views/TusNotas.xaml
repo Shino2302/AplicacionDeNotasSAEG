@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AplicacionDeNotasSAEG.Views.TusNotas"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Resources>
+        <Style TargetType="Button">
+            <Setter Property="CornerRadius" Value="50"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+            <Setter Property="HeightRequest" Value="100"/>
+            <Setter Property="WidthRequest" Value="100"/>
+            <Setter Property="FontSize" Value="35"/>
+        </Style>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <Grid RowDefinitions="60,*">
+            <Label Text="Tus Notas" 
+                       TextColor="#000"
+                       FontSize="36"
+                       FontAttributes="Bold,Italic"
+                       HorizontalOptions="CenterAndExpand"/>
+            <CollectionView ItemsSource=""
+                            SelectedItem=""
+                            SelectionChangedCommand=""
+                            Grid.Row="1">
+                <CollectionView.ItemsLayout>
+                    <GridItemsLayout Orientation="Vertical"
+                                     Span="2"
+                                     HorizontalItemSpacing="10"
+                                     VerticalItemSpacing="10"/>
+                </CollectionView.ItemsLayout>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid RowDefinitions="180,80">
+                            <Frame Grid.Row="1"
+                                   WidthRequest="325"
+                                   HorizontalOptions="Center"
+                                   BackgroundColor="#79F"
+                                   HasShadow="False">
+                                <StackLayout>
+                                    <Label Text="Titulo"
+                                           TextColor="Black"/>
+                                </StackLayout>
+                            </Frame>
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+            <Button Text="+"
+                    HorizontalOptions="End"
+                    BorderWidth="5"
+                    BorderColor="#000"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

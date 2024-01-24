@@ -1,0 +1,16 @@
+C:\Users\cd19\source\repos\AplicacionDeNotasSAEG\AplicacionDeNotasSAEG\bin\Debug\netstandard2.0\AplicacionDeNotasSAEG.deps.json
+C:\Users\cd19\source\repos\AplicacionDeNotasSAEG\AplicacionDeNotasSAEG\bin\Debug\netstandard2.0\AplicacionDeNotasSAEG.dll
+C:\Users\cd19\source\repos\AplicacionDeNotasSAEG\AplicacionDeNotasSAEG\bin\Debug\netstandard2.0\AplicacionDeNotasSAEG.pdb
+C:\Users\cd19\source\repos\AplicacionDeNotasSAEG\AplicacionDeNotasSAEG\obj\Debug\netstandard2.0\AplicacionDeNotasSAEG.csproj.AssemblyReference.cache
+C:\Users\cd19\source\repos\AplicacionDeNotasSAEG\AplicacionDeNotasSAEG\obj\Debug\netstandard2.0\AplicacionDeNotasSAEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd19\source\repos\AplicacionDeNotasSAEG\AplicacionDeNotasSAEG\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cd19\source\repos\AplicacionDeNotasSAEG\AplicacionDeNotasSAEG\obj\Debug\netstandard2.0\Views\Login.xaml.g.cs
+C:\Users\cd19\source\repos\AplicacionDeNotasSAEG\AplicacionDeNotasSAEG\obj\Debug\netstandard2.0\Views\TusNotas.xaml.g.cs
+C:\Users\cd19\source\repos\AplicacionDeNotasSAEG\AplicacionDeNotasSAEG\obj\Debug\netstandard2.0\AplicacionDeNotasSAEG.AssemblyInfoInputs.cache
+C:\Users\cd19\source\repos\AplicacionDeNotasSAEG\AplicacionDeNotasSAEG\obj\Debug\netstandard2.0\AplicacionDeNotasSAEG.AssemblyInfo.cs
+C:\Users\cd19\source\repos\AplicacionDeNotasSAEG\AplicacionDeNotasSAEG\obj\Debug\netstandard2.0\AplicacionDeNotasSAEG.csproj.CoreCompileInputs.cache
+C:\Users\cd19\source\repos\AplicacionDeNotasSAEG\AplicacionDeNotasSAEG\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cd19\source\repos\AplicacionDeNotasSAEG\AplicacionDeNotasSAEG\obj\Debug\netstandard2.0\AplicacionDeNotasSAEG.dll
+C:\Users\cd19\source\repos\AplicacionDeNotasSAEG\AplicacionDeNotasSAEG\obj\Debug\netstandard2.0\refint\AplicacionDeNotasSAEG.dll
+C:\Users\cd19\source\repos\AplicacionDeNotasSAEG\AplicacionDeNotasSAEG\obj\Debug\netstandard2.0\AplicacionDeNotasSAEG.pdb
+C:\Users\cd19\source\repos\AplicacionDeNotasSAEG\AplicacionDeNotasSAEG\obj\Debug\netstandard2.0\ref\AplicacionDeNotasSAEG.dll
